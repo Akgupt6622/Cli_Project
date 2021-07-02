@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "cli_project",
+  "builds": [
+    {
+      "src": "*",
+      "use": "@now/static"
+    }
+  ]
+}
